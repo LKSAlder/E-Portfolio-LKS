@@ -1,6 +1,6 @@
 ---
 title: "Lucas Pan"
-image: /Users/pankeyuan/Documents/GitHub/E-Portfolio-LKS/images/WechatIMG818.jpg
+image: /Users/pankeyuan/Documents/GitHub/E-Portfolio-LKS/images/WechatIMG818.png
 about:
   template: trestles
   image-width: 20em
